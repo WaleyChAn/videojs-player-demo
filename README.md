@@ -1,2 +1,24 @@
 # videojs-player-demo
-一个基于videojs-player和vue2.7制作的视频播放组件模板。 | A video playback component template based on videojs-player and vue2.7.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
